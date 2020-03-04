@@ -1,0 +1,1 @@
+"$4/developer/adapter_packs/python/bin/python3"  "$(dirname "$0")/Z3ContactSensorMG22v672-postbuild.py" "$1" "$2" "" "$4/../../../../usr/local/Cellar/wine/4.0.2/bin/wine cmd /C " "$3"
